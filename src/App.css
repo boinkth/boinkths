@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+
+* {
+  font-family: 'Gamja Flower';
+  font-weight: bold;
+  font-size: 1.2rem;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: #ffeecf;
+}
+
+.imgedit{display:flex; flex-wrap: nowrap; align-items: center}
