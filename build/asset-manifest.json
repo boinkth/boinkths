@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/boinkths/static/css/main.bf628b2a.css",
+    "main.js": "/boinkths/static/js/main.3c67f5c2.js",
+    "static/media/christmas_market.jpg": "/boinkths/static/media/christmas_market.0047f12ad5713ffc1822.jpg",
+    "static/media/logo-no-background.png": "/boinkths/static/media/logo-no-background.e87a0ea2bf3e4adcc9a0.png",
+    "index.html": "/boinkths/index.html",
+    "main.bf628b2a.css.map": "/boinkths/static/css/main.bf628b2a.css.map",
+    "main.3c67f5c2.js.map": "/boinkths/static/js/main.3c67f5c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf628b2a.css",
+    "static/js/main.3c67f5c2.js"
+  ]
+}
