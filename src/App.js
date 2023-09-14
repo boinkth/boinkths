@@ -30,17 +30,37 @@ function Timeline() {
       <VerticalTimeline>
       <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="Dec 16, 2022"
+          date="Feb 13, 2022"
         >
-          <h3 className="vertical-timeline-element-title">Secret Santa w/ the VeggieTas</h3>
+          <h3 className="vertical-timeline-element-title">Our First Valentine's Day</h3>
           <h4 className="vertical-timeline-element-subtitle">Toronto, ON</h4>
           <p>
-            A day in two parts. We first got korean food with the VeggieTas... being Caroline and Gozel since everyone else
-            was busy. We shared some takoyaki and a (giant) pancake. Then we went on an adventure to get Caroline's cursed
-            Jason Derulo pics printed LMAO. Once the other two had gone, we went shopping around eaton and the bay (black face santa).
-            Then we headed up to yorkville and ran into a sculpture made by an alum of your high school. We walked around the park lights
-            for a while (I'll never forget your reaction when I picked you up LOL), followed by dinner at this Italian place where
-            we almost tricked the waiter that I spoke Italian.
+            sss
+          </p>
+        </VerticalTimelineElement>
+      <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Mar 23, 2023"
+        >
+          <h3 className="vertical-timeline-element-title">First Birthday Together</h3>
+          <h4 className="vertical-timeline-element-subtitle">Toronto, ON</h4>
+          <p>
+            I am the luckiest guy alive to get to celebrate my birthday together with you <3 You got me these really cute cakes, one in the shape
+            of a ramen bowl, and one in the shape of kitty swimming in coffee! We shared the cakes sitting in our usual spot by the library entrance, 
+            then spent some time cuddling before Caroline ran into us LOL. It was the best birthday ever :)).
+          </p>
+        </VerticalTimelineElement>
+      <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Feb 13, 2023"
+        >
+          <h3 className="vertical-timeline-element-title">Our First Valentine's Day</h3>
+          <h4 className="vertical-timeline-element-subtitle">Toronto, ON</h4>
+          <p>
+            Our very first Valentine's day together! Albeit a day early, this was definitely one of my favorite moments I got to spend with you.
+            I remember picking you up after class and taking you to this hole-in-the-wall tiramisu place where we got to share one of our favorite desserts!
+            I also got you a rose (very tasty btw) which you couldn't keep, so I took it home with me. I still have it to remind me of spending the best time with
+            the love of my life.
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
