@@ -58,7 +58,7 @@ function Timeline() {
             Jason Derulo pics printed LMAO. Once the other two had gone, we went shopping around eaton and the bay (black face santa).
             Then we headed up to yorkville and ran into a sculpture made by an alum of your high school. We walked around the park lights
             for a while (I'll never forget your reaction when I picked you up LOL), followed by dinner at this Italian place where
-            we almost tricked the waiter that I spoke Italian.
+            we almost tricked the waiter that I spoke Italian.TEST
           </p>
         </VerticalTimelineElement>
 
