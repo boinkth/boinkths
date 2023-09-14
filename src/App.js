@@ -28,6 +28,21 @@ function Timeline() {
   return (
     <div className="App">
       <VerticalTimeline>
+      <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Dec 16, 2022"
+        >
+          <h3 className="vertical-timeline-element-title">Secret Santa w/ the VeggieTas</h3>
+          <h4 className="vertical-timeline-element-subtitle">Toronto, ON</h4>
+          <p>
+            A day in two parts. We first got korean food with the VeggieTas... being Caroline and Gozel since everyone else
+            was busy. We shared some takoyaki and a (giant) pancake. Then we went on an adventure to get Caroline's cursed
+            Jason Derulo pics printed LMAO. Once the other two had gone, we went shopping around eaton and the bay (black face santa).
+            Then we headed up to yorkville and ran into a sculpture made by an alum of your high school. We walked around the park lights
+            for a while (I'll never forget your reaction when I picked you up LOL), followed by dinner at this Italian place where
+            we almost tricked the waiter that I spoke Italian.
+          </p>
+        </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="Dec 18, 2022"
@@ -58,7 +73,7 @@ function Timeline() {
             Jason Derulo pics printed LMAO. Once the other two had gone, we went shopping around eaton and the bay (black face santa).
             Then we headed up to yorkville and ran into a sculpture made by an alum of your high school. We walked around the park lights
             for a while (I'll never forget your reaction when I picked you up LOL), followed by dinner at this Italian place where
-            we almost tricked the waiter that I spoke Italian.TEST
+            we almost tricked the waiter that I spoke Italian.
           </p>
         </VerticalTimelineElement>
 
