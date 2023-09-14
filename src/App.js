@@ -32,10 +32,39 @@ function Timeline() {
           className="vertical-timeline-element--work"
           date="Feb 13, 2022"
         >
-          <h3 className="vertical-timeline-element-title">Our First Valentine's Day</h3>
+          <h3 className="vertical-timeline-element-title">Graduation!</h3>
           <h4 className="vertical-timeline-element-subtitle">Toronto, ON</h4>
           <p>
-            sss
+            
+          </p>
+        </VerticalTimelineElement>
+      <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Feb 13, 2022"
+        >
+          <h3 className="vertical-timeline-element-title">Your Birthday!</h3>
+          <h4 className="vertical-timeline-element-subtitle">Toronto, ON</h4>
+          <p>
+          Happiest birthday to the love of my life!!!!! Im so happy I get to celebrate your birthday together with you! It's been close to 8 months since we decided we'd stop
+          (I would stop) being a rat and ask you out, and it's genuinely one of the best decisions I've ever made. You make me so insanely happy, and I hope that I can make you just as happy
+          But, today is about you. I am so incredibly proud of everything you're achieving this year, between graduation and grad school applications!! Your hard work is paying off and I'm so
+           happy to see you succeeding. I'm sure that no matter what life has in store for you, you'll be able to overcome and make it turn out in your favour. You're smart, intelligent, hardworking,
+           persevering, and beautiful. I just hope that with any luck, I'll be by your side to share in your achievements and support you in your moments of hardship. 
+           I love you forever and always, my K dawg, my soupmate, my baby grill, my cutie kat, my everything <3! Not to sound like a broken record, but I feel so lucky to be the one you choose to spend your birthday with! We couldn't celebrate you on time,
+            but we went to the Keg with the tacos and had a great time looking for ghosts and eating nachos! These are the moments that I'll always rememeber when we're
+            80 and crippled of Alzheimers. 
+          </p>
+        </VerticalTimelineElement>
+      <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Apr 25, 2023"
+        >
+          <h3 className="vertical-timeline-element-title">Spring Cherry Blossoms!</h3>
+          <h4 className="vertical-timeline-element-subtitle">Toronto, ON</h4>
+          <p>
+            A very fun day! We met up with the tacos and went to visit the cherry blossoms on UofT campus and Queen's Park! I remember some guy kept bothering
+            us about his lost umbrella, and you put a blossom in my hair that lasted until later in the day LOL. We took some very cute photos together and got a lot 
+            of steps in! How time flies when you're with your soupmate <3.
           </p>
         </VerticalTimelineElement>
       <VerticalTimelineElement
